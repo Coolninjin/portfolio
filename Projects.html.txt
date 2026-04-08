@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Projects</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="projects.html">Projects</a>
+</nav>
+
+<div class="container">
+    <h1>Projects & Achievements</h1>
+
+    <h2>School Project</h2>
+    <p>Created a presentation on global wealth inequality.</p>
+
+    <h2>Achievements</h2>
+    <ul>
+        <li>Completed academic assignments</li>
+        <li>Participated in class discussions</li>
+    </ul>
+</div>
+
+</body>
+</html>
